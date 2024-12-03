@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/AbrahamMedelMorales/Post-Install-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AbrahamMedelMorales/Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Azure Crash Course](https://github.com/AbrahamMedelMorales/Azure-Crash-Course)
+  - [Setting up Azure](https://github.com/AbrahamMedelMorales/Azure-Crash-Course)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AbrahamMedelMorales/Configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AbrahamMedelMorales/Azure-Network-Protocols)
 
