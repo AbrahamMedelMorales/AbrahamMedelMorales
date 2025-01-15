@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abraham, an <a href="https://www.linkedin.com/in/abraham-medel-morales-b36a18a4/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Abraham, an <a href="https://www.linkedin.com/in/abraham-medel-morales/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -20,4 +20,4 @@
 
 
 [instagram]: https://www.instagram.com/rosevilletoyotaabe/
-[linkedin]: https://www.linkedin.com/in/abraham-medel-morales-b36a18a4/
+[linkedin]: https://www.linkedin.com/in/abraham-medel-morales/
